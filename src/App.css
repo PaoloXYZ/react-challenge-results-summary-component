@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+p {
+  font-size: 18px;
+}
+/* .App { */
+/*   background-color: grey; */
+/*   /* text-align: center; */
+/*   display: 'flex'; */
+/*   justify-content: 'center'; */
+/*   align-items: 'center'; */
+/*   height: '100vh'; */
+/*   /* position: 'absolute'; left: '50%'; top: '50%'; */
+/*   /* transform: 'translate(-50%, -50%)'; */
+/* } */
+
